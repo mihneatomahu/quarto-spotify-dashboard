@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "quarto-spotify-dashboard.html",
+    "href": "quarto-spotify-dashboard.html",
+    "title": "quarto-spotify-dashboard",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "quarto-spotify-dashboard.html#quarto",
+    "href": "quarto-spotify-dashboard.html#quarto",
+    "title": "quarto-spotify-dashboard",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Spotify Dashboard",
+    "section": "",
+    "text": "Welcome to My Spotify Dashboard 🎵\nThis is a Quarto site that will display Spotify insights using R and Python."
+  }
+]
