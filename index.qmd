@@ -1,0 +1,9 @@
+---
+title: "Spotify Dashboard"
+author: "Mihnea Toma"
+format: html
+---
+
+# Welcome to My Spotify Dashboard 🎵  
+
+This is a Quarto site that will display Spotify insights using R and Python.

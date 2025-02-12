@@ -1,0 +1,10 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Spotify Dashboard"
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
